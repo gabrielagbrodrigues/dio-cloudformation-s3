@@ -19,7 +19,6 @@ dio-cloudformation-s3/
 -  ├─ templates/
 -  │  └─ s3-static-website.yaml
 -  └─ images/
--  ├─ stack-create-in-progress.png
 -  ├─ stack-create-complete.png
 -  ├─ outputs-website-url.png
 -   ─ site-online.png
@@ -39,17 +38,14 @@ Ele cria:
 
 ## 🖼️ Evidências do Desafio
 
-### 1️⃣ Criação da pilha no CloudFormation  
-![Stack In Progress](./images/stack-create-in-progress.png)
+### 1️⃣  Pilha criada com sucesso  
+![Stack Complete](stack-creat-complete.JPG)
 
-### 2️⃣ Pilha criada com sucesso  
-![Stack Complete](./images/stack-create-complete.png)
+### 2️⃣ Saídas do CloudFormation (WebsiteURL gerado)  
+![Outputs](output-website-url.JPG)
 
-### 3️⃣ Saídas do CloudFormation (WebsiteURL gerado)  
-![Outputs](./images/outputs-website-url.png)
-
-### 4️⃣ Site publicado e acessível no navegador  
-![Site Online](./images/site-online.png)
+### 3️⃣ Site publicado e acessível no navegador  
+![Site Online](site-online.JPG)
 
 🔗 *Acesse aqui:* [http://dio-gabi-site-2025.s3-website-us-east-2.amazonaws.com](http://dio-gabi-site-2025.s3-website-us-east-2.amazonaws.com)
 
