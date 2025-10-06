@@ -27,7 +27,7 @@ dio-cloudformation-s3/
 
 ## 📜 Template utilizado
 
-O arquivo principal usado neste desafio está em [templates/s3-static-website.yaml](./templates/s3-static-website.yaml).
+O arquivo principal usado neste desafio está em [templates-s3-static-website.yaml).
 
 Ele cria:
 - Um bucket S3 com *WebsiteConfiguration* (index e error page).
@@ -46,8 +46,6 @@ Ele cria:
 
 ### 3️⃣ Site publicado e acessível no navegador  
 ![Site Online](site-online.JPG)
-
-🔗 *Acesse aqui:* [http://dio-gabi-site-2025.s3-website-us-east-2.amazonaws.com](http://dio-gabi-site-2025.s3-website-us-east-2.amazonaws.com)
 
 ---
 
